@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,World!%20🥳&fontSize=70)
+
 <h3 align="center">
   👋 Nice way to meet me 👋
 </h3> 
@@ -28,3 +30,5 @@
   <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=Bitbucket&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white">
 </p>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
