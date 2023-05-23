@@ -25,7 +25,7 @@
   🛠 Tools 🛠
 </h3>
 <p align="center">
-  <a href="https://github.com/Yeonghoon-mo" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Git&logoColor=white"/></a>
+  <a href="https://github.com/Yeonghoon-mo" target="_blank"><img src="https://img.shields.io/badge/Git-181717?style=flat&logo=Git&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=Bitbucket&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white">
