@@ -24,6 +24,7 @@
   <a href="https://github.com/Yeonghoon-mo" target="_blank"></a>
   <img src="https://img.shields.io/badge/Git-181717?style=flat&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bitbucket-0052AA?style=flat&logo=Bitbucket&logoColor=white"/>
   <img src="https://img.shields.io/badge/Atlassian-0052CC?style=flat&logo=Atlassian&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/Kubernetes-0066FF?style=flat&logo=Kubernetes&logoColor=white">
